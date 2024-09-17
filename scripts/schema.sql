@@ -4,6 +4,8 @@ CREATE SCHEMA public;
 GRANT ALL ON SCHEMA public TO admin;
 GRANT ALL ON SCHEMA public TO public;
 
+CREATE EXTENSION IF NOT EXISTS "uuid-ossp";
+
 -- Table: Competitions
 CREATE TABLE Competitions (
     competition_id VARCHAR(50) PRIMARY KEY,  -- VARCHAR for primary key
