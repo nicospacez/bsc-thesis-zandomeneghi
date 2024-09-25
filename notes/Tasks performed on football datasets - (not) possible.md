@@ -1,0 +1,105 @@
+#thesis 
+
+In conclusion these data structure does not provide any data about:
+
+- Player Position on the Pitch during a Game: Real-time positional data for players.
+- In-depth Player Performance Metrics: Detailed statistics such as passes completed, tackles made, shots on goal, distance covered.
+- Game Events in Detail: Specific game event details such as goal times, substitutions, fouls, assists, injuries.
+- Historical Performance of Players: Historical performance statistics for players over multiple seasons.
+- Detailed Team Tactics and Formations: Detailed tactical information such as formation changes during the game, strategic plays executed.
+- Financial Transactions Over Time: Details about individual transfer transactions, dates, fees involved.
+- Injury and Suspension Data: Data regarding player injuries, suspensions, fitness levels.
+- Fan and Social Media Sentiment: Data related to fan engagement, social media activity, public sentiment.
+- Training and Practice Data: Information about training sessions, practice match performance, player development metrics.
+- Revenue and Financial Performance: Details on club revenues, sponsorships, financial health.
+
+**Possible analysis:**
+- **Team Performance Analysis**:
+    - Market value
+    - Squad size
+    - Average age
+    - Number of foreigners
+    - Percentage of foreigners
+    - National team players
+    - Net transfer record
+    - Last season performance
+- **Match Results and Statistics**:
+    - Home club goals
+    - Away club goals
+    - Home club position
+    - Away club position
+    - Home club manager name
+    - Away club manager name
+    - Stadium name
+    - Attendance
+    - Referee name
+    - Cards issued
+- **Player Demographics and Contract Information**:
+    - First name
+    - Last name
+    - Country of birth
+    - City of birth
+    - Country of citizenship
+    - Date of birth
+    - Position
+    - Sub-position
+    - Preferred foot
+    - Height (cm)
+    - Contract expiration date
+    - Agent name
+    - Market value (EUR)
+    - Highest market value (EUR)
+- **Club Financial and Market Value Analysis**:
+    - Market value
+    - Squad size
+    - Average age
+    - Number of foreigners
+    - Percentage of foreigners
+    - National team players
+    - Net transfer record
+    - Last season performance
+- **Comparative Analysis of Clubs**:
+    - Market value
+    - Squad size
+    - Average age
+    - Number of foreigners
+    - National team players
+    - Stadium name
+    - Stadium capacity
+    - Net transfer record
+- **Managerial Impact**:
+    - Home club manager name
+    - Away club manager name
+    - Home club position
+    - Away club position
+- **Attendance and Fan Engagement**:
+    - Stadium name
+    - Attendance
+    - Stadium capacity
+- **Formation and Tactical Analysis**:
+    - Home club formation
+    - Away club formation
+- **League and Competition Analysis**:
+    - Competition code
+    - Competition name
+    - Sub-type of competition
+    - Type of competition
+    - Country name
+    - Domestic league code
+    - Confederation
+- **Player Market Value Trends**:
+    - Market value (EUR)
+    - Highest market value (EUR)
+- **Player Age and Career Span**:
+    - Date of birth
+    - Contract expiration date
+- **Nationality and Diversity Analysis**:
+    - Country of birth
+    - City of birth
+    - Country of citizenship
+    - Number of foreigners
+    - Percentage of foreigners
+- **Prediction Models**:
+    - Build predictive models for match outcomes, player performance, and transfer market values using available player and match statistics.
+- **Linked Data Exploration**:
+    - Create a linked dataset for exploration and detailed analysis, linking your data to other available datasets for enhanced insights.

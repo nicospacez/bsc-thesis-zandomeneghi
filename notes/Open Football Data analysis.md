@@ -1,0 +1,46 @@
+#thesis 
+- **Player Performance Analysis** (games/minutes played, scores, assists, cards, etc)
+	- Paper:
+		- A public data set of spatiotemporal match events in soccer competitions
+	- Platform:
+		- https://onefootball.com/de/home
+		- https://www.squawka.com/en/
+		- https://www.whoscored.com/
+- **Team Performance Analysis**
+	- calc team stats (performance)
+		- Paper:
+			- Exploring and modelling team performances of the Kaggle European Soccer databas
+			- The Open International Soccer Database for machine learning
+		- Platform:
+			- https://www.whoscored.com/
+			- https://www.soccerstats.com/
+- **Club Analysis**
+	- market value
+		- Platform:
+			- https://www.transfermarkt.com/
+	- compare club performances
+		- Paper:
+			- Exploring and modelling team performances of the Kaggle European Soccer databas
+		- Platform:
+			- https://www.squawka.com/en/
+- Game Event analysis
+	- when does one team scores more often
+		- Paper:
+			- Exploring and modelling team performances of the Kaggle European Soccer databas
+	- identify correlations player attributes and performance metrics
+	- evaluate impact of players
+- transfer market analysis
+	- analyze player transfers
+	- identify trends
+	- impact of transfers on team performance
+- formation
+	- team performance on formations
+	- trends in formation across clubs or leages
+	- impact of formations on KPIs like goals sorced or conceded
+- Compare international games with league games
+- Player Tracking
+	- Paper:
+		- Automatic event detection in football using tracking data
+		- Data-Driven Visual Performance Analysis in Soccer_An Exploratory Prototype
+		- Open Dataset Recorded by Single Cameras for Multi-Player Tracking in Soccer Scenarios
+		- Setting a Baseline for long-shot real-time Player and Ball detection in Soccer Videos

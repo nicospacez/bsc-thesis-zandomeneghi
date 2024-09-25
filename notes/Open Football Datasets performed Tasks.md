@@ -1,0 +1,36 @@
+- **Player Performance Analysis**:
+    - European Soccer Database
+    - Football (Soccer) Data for Everyone
+    - football.db
+    - WoSo Stats
+- **Team Performance Analysis**:
+    - European Soccer Database
+    - Football (Soccer) Data for Everyone
+    - football.db
+    - OpenLigaDB
+    - Worldcup
+- **Club Analysis**:
+    - European Soccer Database
+    - Football (Soccer) Data for Everyone
+    - football.db
+    - Transfermarkt Datasets
+- **Game Event Analysis**:
+    - European Soccer Database
+    - Football (Soccer) Data for Everyone
+    - football.db
+    - International football results from 1872 to 2024
+    - OpenLigaDB
+    - Worldcup
+- **Transfer Market Analysis**:
+    - Transfermarkt Datasets
+- **Formation**:
+    - European Soccer Database
+    - Football (Soccer) Data for Everyone
+    - football.db
+- **Compare International Games with League Games**:
+    - International football results from 1872 to 2024
+- **Player Tracking**:
+    - European Soccer Database
+    - Football (Soccer) Data for Everyone
+    - football.db
+    - WoSo Stats
