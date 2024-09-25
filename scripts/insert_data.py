@@ -81,6 +81,13 @@ def main():
             
             for csv_file, table_name, columns in csv_files:
                 df = pd.read_csv(csv_file)
+                
+                if 'player_assist_id' in df.columns:
+                    df['player_assist_id'] = df['player_assist_id'].apply(lambda x: str(int(x)) if pd.notnull(x) else None)
+
+                if table_name == 'player_market_values' and 'player_market_value_id' in df.columns:
+                    df = df.drop(columns=['player_market_value_id'])
+                
                 print(f"Inserting data into {table_name}...")
                 
                 success, failure = insert_data(conn, df, table_name, columns)
@@ -96,3 +103,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
